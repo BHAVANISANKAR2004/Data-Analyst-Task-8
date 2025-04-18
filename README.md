@@ -1,4 +1,4 @@
-insights = """
+insights 
 1. Sales peaked in November and December, showing a seasonal increase in demand.
 2. The West region had the highest overall sales, contributing significantly to the total revenue.
 3. The Technology category had the highest revenue share, outpacing other categories.
